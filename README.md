@@ -1,1 +1,1 @@
-# sleepless_crafting_version 1.0.4
+# sleepless_crafting_version 1.0.5
